@@ -1,0 +1,9 @@
+html,body,#app{
+    height: 100%;
+}
+
+/* 去掉默认样式 */
+*{
+    margin: 0px;
+    padding: 0px;
+}
